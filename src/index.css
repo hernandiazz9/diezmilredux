@@ -1,0 +1,23 @@
+
+.dados{
+    display: flex;
+}
+.bloqueado{
+  pointer-events: none;
+  background-color: black;
+}
+  
+
+
+.cerrar-sesion{
+  margin-top: 4rem;
+}
+
+.anotar{
+  margin-top: 2rem;
+}
+
+.bloquear{
+  margin-left: .6rem;
+}
+
